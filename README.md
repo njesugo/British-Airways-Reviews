@@ -1,16 +1,29 @@
-Exciting news, Let's find out how much travellers love British Airways. 
+Excitant ..., Découvrons ensemble combien les voaygeurs apprécient la compagnie aérienne British Airways.
 
-People all around the world travel all the time, British Airways is one of the world's most important airline company. 
+Les Hommes voyagent partout dans le monde et ce tous les jours..; British Airways fait partie d'une des plus grandes compagnies aériennes. 
 
-What do travellers say about British Airways ? Do they love it ? How would they recommend it ? 
+Que disent les voyageurs de British Airways ? Est-ce qu'ils l'aiment bien ? Au point de le recommander au autres après un voayge ? 
 
-DATA never lies ? Let's go and check it ...
+Les Données ne mentent jamais :) Allons rapidement vérifier cela. Let's go 
+
+# `Source des données :`
+Source : https://www.kaggle.com/datasets/lapodini/british-airway-reviews?select=rating_data.csv 
+Cette donnée est téléchargée sous format csv depuis Kaggle. N'hésitez pas à visiter le lien pour plus de détails sur cette donnée.
+
+# KPI
+Pour chacun des critères suivants nous évaluons la note moyenne donnée par le voyageur :
+
+- Note Globale Moyenne
+- Service Cabin Staff 
+- Divertissement 
+- Aliments/Boissons
+- Service de base 
+- Confort
+- Valeur ajouté
 
 
 
 
-
-
-### `Tableau Dashboard`
+# `Tableau Dashboard`
 
 ![`Dashboard`](image/Dashboard.png)
