@@ -53,7 +53,7 @@ Il faut le défi au début était le Map, et l'association avec les filtres. En 
 
 ET LE RÉSULTATS EST TOUT AUSSI INTÉRESSANT
 
-### CONCLUSION : 
+### Conclusion : 
 - Quelques conclusions rapides :
 - La note globale moyenne est de 6.0/10 . British Airways a plutôt bonne réputation chez ces voyageurs
 - Mais il reste bien sûr du pain sur la planche : les services suivants sont à repenser et améliorer de toute urgences (Divertissement : 1.8/10 | Aliments/Boissons : 2.1/10 | Confort : 2.8/10)
