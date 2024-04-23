@@ -61,6 +61,6 @@ ET LE RÉSULTATS EST TOUT AUSSI INTÉRESSANT
 
 
 
-# `Tableau Dashboard`
+# `Dashboard - Tableau Desktop`
 
 ![`Dashboard`](image/Dashboard.png)
