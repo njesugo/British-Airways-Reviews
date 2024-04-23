@@ -13,7 +13,7 @@ Une autre source de donnée (countries.csv) a été ajouté pour inclure les pay
 Cette donnée est téléchargée sous format csv depuis Kaggle. N'hésitez pas à visiter le lien pour plus de détails sur cette donnée.
 
 ## Grandes Parties
-Pour faire cette analyse, j'ai avons suivants les étapes suivantes :
+Pour faire cette analyse, j'ai suivi les étapes suivantes :
 
 ### KPI
 Il s'agit des mesures par lesquelles j'ai mesuré la performance de la compagnie aérienne. 
