@@ -9,4 +9,4 @@ DATA never lies ? Let's go and check it ...
 
 ### `Tableau Dashboard`
 
-![`Dashboard`](image/British_Airways_Reviews.jpeg)
+![`Dashboard`](image/Dashboard.png)
