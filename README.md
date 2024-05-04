@@ -49,7 +49,7 @@ le vrai défi au début était le Map, et l'association avec les filtres. En ré
 
 - Map (Note Moyenne par Pays)
 - Courbe (Évaluation de la note moyenne par mois)
-- Diagramme à bar (Note Moyenne en fonction du type d'avion et du nombre total d'avis donnée)
+- Diagramme à barre (Note Moyenne en fonction du type d'avion et du nombre total d'avis donnée)
 
 ET LE RÉSULTATS EST TOUT AUSSI INTÉRESSANT
 
