@@ -45,7 +45,7 @@ Ci-après le liste des Filtres utilisés :
 
 ### Graphiques
 Tout est prêt, j'ai donc passé à la conception des différents graphiques (Map, Courbe et Diagramme à  bar). 
-Il faut le défi au début était le Map, et l'association avec les filtres. En réalité les filtres et la cration de la Map s'est déroulé simultanément.
+le vrai défi au début était le Map, et l'association avec les filtres. En réalité les filtres et la cration de la Map s'est déroulé simultanément.
 
 - Map (Note Moyenne par Pays)
 - Courbe (Évaluation de la note moyenne par mois)
