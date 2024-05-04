@@ -1,4 +1,4 @@
-Excitant ..., Découvrons ensemble combien les voaygeurs apprécient la compagnie aérienne British Airways.
+Excitant ..., Découvrons ensemble combien les voyageurs apprécient la compagnie aérienne British Airways.
 
 Les Hommes voyagent partout dans le monde et ce tous les jours..; British Airways fait partie d'une des plus grandes compagnies aériennes. 
 
